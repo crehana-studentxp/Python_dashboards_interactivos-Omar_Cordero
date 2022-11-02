@@ -29,7 +29,7 @@ Recomendamos el uso de Jupyter Notebook, Google Colab o Visual Studio Code como 
 
 * [Jupyter Notebook](https://jupyter.org/)
 * [Google Colab](https://colab.research.google.com/)
-* [Visual Studio Code](https://code.visualstudio.com/
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
