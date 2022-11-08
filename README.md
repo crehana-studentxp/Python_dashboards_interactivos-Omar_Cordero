@@ -1,4 +1,3 @@
-# Python_dashboards_interactivos-Omar_Cordero
 <div id="top">
   <a href="https://www.crehana.com">
     <img src="images/logo.png" alt="Logo" width="50" height="50">
